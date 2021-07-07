@@ -1,5 +1,9 @@
 # Medi-Manage
 
+Online medical purchase/inventory management system.
+Different Views User, Staff, Admin.
+All basic functionalities like expiry alert, expiry based batch making, sorting, searching, review product, ...
+
 Steps that are necessary to get the
 application up and running.
 
