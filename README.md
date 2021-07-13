@@ -30,4 +30,8 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Design of System 
+
+* SRS
+
+*...
