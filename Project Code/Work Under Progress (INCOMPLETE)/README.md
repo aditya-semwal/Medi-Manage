@@ -1,9 +1,13 @@
-# README
+# Medi-Manage
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The prev. medi manage project was a bit offline so I wanted to make it live - in this directory i will effort overt time to make it a live project.
 
-Things you may want to cover:
+Where I learned this project ?
+
+https://www.youtube.com/watch?v=fmyvWz5TUWg 
+<He is a genius just by investing your 4 hours in this video you can make and upload any CRUD application based web plactform.>
+
+Things I will cover:
 
 * Ruby version
 
@@ -21,4 +25,8 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Design of System 
+
+* SRS
+
+*...
